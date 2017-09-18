@@ -22,5 +22,9 @@
 		   <br> <a href="http://www.njit.edu/">New Jersey Institute of
 		    Technology </a>
 		    <br>
-		    </body>   
+		 
+		 <p> Writing a paragraph <br> </p>
+
+		 
+		 </body>   
 </html>
