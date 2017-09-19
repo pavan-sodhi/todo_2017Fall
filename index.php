@@ -25,7 +25,7 @@
 		 
 		 <p> Writing a paragraph <br> </p>
              		<blockquote> <br>
-			Forty seven ................
+			<b>Forty seven ................</b>
 			</blockquote>
 		 
 		 </body>   
