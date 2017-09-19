@@ -19,8 +19,8 @@
 		    <script src="js/scripts.js"></script>
 		    <h1>Pavandeep Singh' IS 601 Website </h1> <br>
 		    <h2><br> First Assignment <br> </h2>
-		   <br> <a href="http://www.njit.edu/">New Jersey Institute of
-		    Technology </a>
+		   <br> <a href="http://www.njit.edu/"><i>New Jersey Institute of
+		    Technology</i> </a>
 		    <br>
 		 
 		 <p> Writing a paragraph <br> </p>
