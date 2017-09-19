@@ -19,11 +19,11 @@
 		    <script src="js/scripts.js"></script>
 		    <h1>Pavandeep Singh' IS 601 Website </h1> <br>
 		    <h2><br> First Assignment <br> </h2>
-		   <br> <a href="http://www.njit.edu/"><i>New Jersey Institute of
+		   <br> <a href="http://www.njit.edu/"><ii>New Jersey Institute of
 		    Technology</i> </a>
 		    <br>
 		 
-		 <p> Writing a paragraph <br> </p>
+		 <p> this is fun to create a website<br> </p>
              		<blockquote> <br>
 			<b>Forty seven ................</b>
 			</blockquote>
